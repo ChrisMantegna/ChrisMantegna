@@ -1,5 +1,5 @@
 ### Hi there 👋
-## This is my line from R
+## This is a work in progress as I grow in skill & application 
 <!--
 **ChrisMantegna/ChrisMantegna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
