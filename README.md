@@ -1,5 +1,6 @@
 ### Hi there 👋
 ## This is a work in progress as I grow in skill & application 
+### This landing header will house my current project or study system/ organism fun fact, my CV, any cool new things relevant to my progress.
 <!--
 **ChrisMantegna/ChrisMantegna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
