@@ -10,7 +10,7 @@ Welcome to my GitHub! I’m a molecular marine ecologist, educator, and interdis
   Investigating how pollution affects intertidal organisms using biomarkers and field-collected mussels in Puget Sound.
 
 - 🧬 **eDNA + Community Composition**  
-  Using environmental DNA to explore biodiversity in a pristine island preserve and monitor ecological change over time.
+  Using environmental DNA to explore biodiversity on an island marine preserve and monitor ecological change over time.
 
 - 📚 **Intertidal Innovators**  
   Designing curriculum that blends marine ecology with identity exploration for high school students — because science is better with community.
