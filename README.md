@@ -41,14 +41,6 @@ Welcome to my GitHub! I’m a molecular marine ecologist, educator, and interdis
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChrisMantegna&show_icons=true&theme=default&hide_title=true" alt="Chris's GitHub Stats" />
-</p>
-
----
-
 ## 📫 Let’s Connect
 
 - 🌐 UW Feature: [Turning the Tide](https://www.washington.edu/boundless/turning-the-tide-marine-biology/)  
