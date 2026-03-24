@@ -1,12 +1,14 @@
+---
+---
+---
+
 # Hi there, I'm Chris
 
 I am a marine molecular ecologist studying how environmental stressors shape organismal function and ecological communities throughout Puget Sound and the greater Salish Sea. My work focuses on intertidal communities (with mussels as the star of the show) by integrating epigenetic mechanisms, traditional biomarkers, and community ecology to understand how legacy contaminants influence biological systems in these ecosystems. My work lives at the intersection of science, education, and equity — with a special fondness for tide pool creatures and stories from the sea.
 
 ------------------------------------------------------------------------
 
-![](img/mussel_cartoony.png){width="200"}
-
-## Research Themes
+## 🦪 Research Themes
 
 ### Environmental Epigenetics & Molecular Response
 
@@ -44,7 +46,7 @@ I am a marine molecular ecologist studying how environmental stressors shape org
 
 ------------------------------------------------------------------------
 
-## Featured Projects
+## 🔦 Featured Projects
 
 -   **WDFW 'Mussel Watch' Biomarker Analysis**\
     Spatial and statistical analysis of biomarker responses across 74 sites in Puget Sound
@@ -60,7 +62,7 @@ I am a marine molecular ecologist studying how environmental stressors shape org
 
 ------------------------------------------------------------------------
 
-## 🧰 Methods & Approaches
+## 🛠️ Methods & Approaches
 
 -   **Molecular:** DNA methylation (WGBS), eDNA metabarcoding\
 -   **Physiological:** Biomarkers (p450, SOD), morphometrics\
