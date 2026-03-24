@@ -1,53 +1,88 @@
-# Hi there, I'm Chris 🐚
+# Hi there, I'm Chris
 
-Welcome to my GitHub! I’m a molecular marine ecologist, educator, and interdisciplinary researcher focused on coastal ecosystems, contaminant science, and community-centered conservation. My work lives at the intersection of science, education, and equity — with a special fondness for tide pool creatures and stories from the sea.
+I am a marine molecular ecologist studying how environmental stressors shape organismal function and ecological communities throughout Puget Sound and the greater Salish Sea. My work focuses on intertidal communities (with mussels as the star of the show) by integrating epigenetic mechanisms, traditional biomarkers, and community ecology to understand how legacy contaminants influence biological systems in these ecosystems. My work lives at the intersection of science, education, and equity — with a special fondness for tide pool creatures and stories from the sea.
 
----
+------------------------------------------------------------------------
 
-## 🌊 What I’m Working On
+![](img/mussel_cartoony.png){width="200"}
 
-- 🐙 **Contaminant Impact Research**  
-  Investigating how pollution affects intertidal organisms using biomarkers and field-collected mussels in Puget Sound.
+## Research Themes
 
-- 🧬 **eDNA + Community Composition**  
-  Using environmental DNA to explore biodiversity on an island marine preserve and monitor ecological change over time.
+### Environmental Epigenetics & Molecular Response
 
-- 📚 **Intertidal Innovators**  
-  Designing curriculum that blends marine ecology with identity exploration for high school students — because science is better with community.
+-   Integrating epigenetic mechanisms, like DNA methylation and chromatin-level responses, in marine invertebrates\
+-   Linking contaminant exposure → regulatory change → organismal function\
+-   Exploring epigenetic signals as early indicators of stress and contaminant exposure
 
----
+### Biomarkers & Ecotoxicology
 
-## 🛠️ Tools & Skills
+-   p450, SOD, and morphometric responses across Puget Sound\
+-   Integrated Biomarker Response (IBR) frameworks\
+-   Connecting contaminant mixtures to biological outcomes
 
-- **Languages & Analysis**: R, BASH and a smidge of SQL  
-- **Spatial & Data Tools**: QGIS, mapping & stats in R  
-- **Focus Areas**: Community ecology, science communication, curriculum design, environmental justice
+### Community Ecology & eDNA
 
----
+-   Metabarcoding approaches to assess biodiversity\
+-   Linking molecular signals to community composition\
+-   Intertidal ecosystem dynamics
+
+### Education, Access & Community Science
+
+-   Intertidal ecology curriculum development\
+-   Asset-based, community-centered science education\
+-   Creating pathways into marine science
+
+------------------------------------------------------------------------
+
+## ❓ Current Research Questions
+
+-   How do contaminant mixtures influence DNA methylation patterns in marine invertebrates?
+    -   Do they align with traditional biomarker response?
+    -   What can they reveal that traditional biomarkers cannot/ may not?\
+-   Can epigenetic signals act as early-warning indicators before physiological impairment?\
+-   What does environmental memory look like in coastal systems?
+
+------------------------------------------------------------------------
+
+## Featured Projects
+
+-   **WDFW 'Mussel Watch' Biomarker Analysis**\
+    Spatial and statistical analysis of biomarker responses across 74 sites in Puget Sound
+
+-   **Utilizing DNA Methylation as an Indicator of Contaminant Exposure**\
+    Building reproducible pipelines for whole genome bisulfite sequencing (WGBS) analysis
+
+-   **Yellow Island eDNA Project**\
+    Assessing intertidal community composition using metabarcoding approaches
+
+-   **Intertidal Ecology Education Programs**\
+    Designing accessible, hands-on marine science learning experiences
+
+------------------------------------------------------------------------
+
+## 🧰 Methods & Approaches
+
+-   **Molecular:** DNA methylation (WGBS), eDNA metabarcoding\
+-   **Physiological:** Biomarkers (p450, SOD), morphometrics\
+-   **Spatial Analyses & Mapping:** ArcGIS and QGIS, spatial statistics \
+-   **Data Science:** R, Bash, SQL\
+-   **Integration:** Linking molecular processes to ecological outcomes
+
+------------------------------------------------------------------------
 
 ## 🐌 Ask Me About...
 
-- Translating field science into joyful learning
-- Building equitable science programs
-- Analyzing intertidal data (bonus points if it involves sea slugs 🐌 or chitons 🪨)
-- Combining -omics, storytelling, and spatial data
+-   Combining -omics, storytelling, and spatial data.
+-   Translating field science into joyful learning.
+-   Anything interidal!
 
----
-
-## 🐠 A Few Fun Facts
-
-- I believe everyone should get to experience the intertidal zone, no boots required.
-- Seahorses are my favorite fish
-
----
+------------------------------------------------------------------------
 
 ## 📫 Let’s Connect
 
-- 🌐 UW Feature: [Turning the Tide](https://www.washington.edu/boundless/turning-the-tide-marine-biology/)  
-- ✉️ Email: mantegna@uw.edu  
-- 🤝🏽 Always open to collaboration, especially community-based projects and creative science communication.
+-   🌐 UW Feature: [Turning the Tide](https://www.washington.edu/boundless/turning-the-tide-marine-biology/)\
+-   ✉️ Email: [mantegna\@uw.edu](mailto:mantegna@uw.edu){.email}\
 
----
+------------------------------------------------------------------------
 
-> *“The intertidal is a conversation between the land and the sea... and I love a good chat”*  
-> — me, probably while ankle-deep in sea lettuce
+> *The intertidal is a conversation between the land and the sea, and I love a good chat*
