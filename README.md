@@ -1,8 +1,8 @@
----
----
+## Hi there, I'm Chris!
+
 ---
 
-# Hi there, I'm Chris
+## About My Work
 
 I am a marine molecular ecologist studying how environmental stressors shape organismal function and ecological communities throughout Puget Sound and the greater Salish Sea. My work focuses on intertidal communities (with mussels as the star of the show) by integrating epigenetic mechanisms, traditional biomarkers, and community ecology to understand how legacy contaminants influence biological systems in these ecosystems. My work lives at the intersection of science, education, and equity — with a special fondness for tide pool creatures and stories from the sea.
 
