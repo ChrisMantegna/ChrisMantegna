@@ -79,7 +79,7 @@ I am a marine molecular ecologist studying how environmental stressors shape org
 ## 📫 Let’s Connect
 
 -   🌐 UW Feature: [Turning the Tide](https://www.washington.edu/boundless/turning-the-tide-marine-biology/)
--   ✉️ Email: [mantegna\@uw.edu](mailto:mantegna@uw.edu){.email}
+-   ✉️ Email: [mantegna\@uw.edu](mailto:mantegna@uw.edu)
 
 ------------------------------------------------------------------------
 
